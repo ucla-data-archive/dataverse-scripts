@@ -21,11 +21,8 @@ right now just reads a hardcoded file but will change to read a directory
 - json
 
 ## readLidarFolder
-Reads though a folder of .las files (right now just 2) and makes a list with
- - filename
- - x and y, min and max boundries
- Not sure if this is correct for bounding box
- 
+Reads though a folder of .las files (right now just 2) and makes a list with the filename and x and y, min and max boundries
+ Not sure if this is correct for bounding box   
  - **laspy**
  - numpy
  - glob
