@@ -17,7 +17,7 @@ creates a csv of the files currently in the lariac4 folder,  these happen to be 
 ## readshapefile
 pulls bounding box information from shapefiles
 right now just reads a hardcoded file but will change to read a directory
-- **shapefile**
+- **shapefile** 
 - json
 
 ## readLidarFolder
