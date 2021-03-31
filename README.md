@@ -26,3 +26,11 @@ Reads though a folder of .las files (right now just 2) and makes a list with the
  - **laspy**
  - numpy
  - glob
+
+## getDatasetInfo
+examples of pyDataverse pulling dataset information, dataset dict structure
+- ##pyDataverse**
+- pandas
+- json
+- pprint < so you can print out the dictionary structure, visually helpful
+- os
