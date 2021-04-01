@@ -1,3 +1,11 @@
+# Library List
+Available through pip
+- pyDataverse https://pypi.org/project/pyDataverse/
+- PyShp / shapefile https://pypi.org/project/pyshp/ 
+- laspy https://pypi.org/project/laspy/
+- pdal https://pypi.org/project/PDAL/
+
+
 # dataverse-scripts  
 
 - Scripts for processing geospatial files for dataverse 
@@ -17,7 +25,7 @@ creates a csv of the files currently in the lariac4 folder,  these happen to be 
 ## readshapefile
 pulls bounding box information from shapefiles
 right now just reads a hardcoded file but will change to read a directory
-- **shapefile** 
+- **shapefile**  PyShp
 - json
 
 ## readLidarFolder
