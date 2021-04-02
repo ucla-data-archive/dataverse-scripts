@@ -6,7 +6,7 @@ Available through pip
 - pdal https://pypi.org/project/PDAL/
 
 
-# dataverse-scripts  
+# Notebooks 
 
 - Scripts for processing geospatial files for dataverse 
 - Scripts for pre-processing geospatial files for the bounding-box/extent data  
