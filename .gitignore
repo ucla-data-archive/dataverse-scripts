@@ -7,3 +7,4 @@ config.*
 Untitled*.*
 *.json
 .ipynb_chechpoint*.ipynb
+/.ipynb_checkpoints/*.*
