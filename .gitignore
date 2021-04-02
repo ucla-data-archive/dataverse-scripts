@@ -2,3 +2,5 @@
 *.txt
 *.zip
 Untitled*.*
+*.json
+.ipynb_chechpoint*.ipynb
