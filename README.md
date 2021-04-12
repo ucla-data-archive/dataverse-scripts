@@ -6,7 +6,7 @@ Available through pip
 - pdal https://pypi.org/project/PDAL/
 
 
-# dataverse-scripts  
+# Notebooks 
 
 - Scripts for processing geospatial files for dataverse 
 - Scripts for pre-processing geospatial files for the bounding-box/extent data  
@@ -42,3 +42,9 @@ examples of pyDataverse pulling dataset information, dataset dict structure
 - json
 - pprint < so you can print out the dictionary structure, visually helpful
 - os
+
+## dataverse_upload_file.ipynb  
+Single file upload works on regular dataverse s3 bucket BUT not on the direct-upload s3 bucket
+
+## prototype-create-list-then-upload.ipynb  
+blocking out how the actual upload program would work
