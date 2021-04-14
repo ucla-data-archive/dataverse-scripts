@@ -35,6 +35,14 @@ Reads though a folder of .las files (right now just 2) and makes a list with the
  - numpy
  - glob
 
+## geopackage 1.0.0  
+- A package to read/write GeoPackage Vector Data
+- pip install geopackage
+
+## geopackage-python  
+- https://pypi.org/project/geopackage-python/  
+- This one is set of tools for creating geopackages
+
 ## getDatasetInfo
 examples of pyDataverse pulling dataset information, dataset dict structure
 - ##pyDataverse**
